@@ -1,9 +1,9 @@
-_Read this in other languages:_ [Português](README.pt-br.md)
+_Leia isto em outros idiomas:_ [English](README.md)
 
-<h1 align="center">Image Uploader</h1>
+<h1 align="center">Imagem Uploader</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solução para um desafio do <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
@@ -13,11 +13,11 @@ _Read this in other languages:_ [Português](README.pt-br.md)
     </a>
     <span> | </span>
     <a href="https://github.com/eduardosantanna/image-uploader-devchalenger-io">
-      Solution
+      Solução
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx">
-      Challenge
+      Desafio 
     </a>
   </h3>
 </div>
@@ -26,40 +26,40 @@ _Read this in other languages:_ [Português](README.pt-br.md)
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [How to use](#how-to-use)
-- [Contact](#contact)
+- [Visão geral](#visão-geral)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Funcionalidades](#funcionalidades)
+- [Como rodar o projeto](#como-rodar-o-projeto)
+- [Contato](#contato)
 
 <!-- OVERVIEW -->
 
-## Overview
+## Visão geral
 
 <img src="https://i.imgur.com/BUhZBtm.png" width="49%"/>
 <img src="https://i.imgur.com/ArqRwX5.png" width="49%"/>
 <img src="https://i.imgur.com/WMslAyR.png" width="49%"/>
 
-### Built With
+### Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
 - [Ant Design](https://ant.design/)
 - [Nest.js](https://nestjs.com/)
 - [Firebase](https://firebase.google.com/)
 
-## Features
+## Funcionalidades
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 In this application, the user can upload an image and retrieve its URL to be used later.
 
-## How To Use
+## Como rodar o projeto
 
 <!-- Example: -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
+Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que vem com [npm](http://npmjs.com)) instalado no seu computador.
 
-It will also be necessary that you have a firebase project and that you have your key downloaded on your computer, so that it can be added to the .env file of the back-end directory. Key example:
+Também será necessário que você tenha um projeto firebase e que tenha sua chave baixada em seu computador, para que ela possa ser adicionada ao arquivo .env do diretório back-end. Exemplo de chave:
 
 ```bash
 {
@@ -76,7 +76,7 @@ It will also be necessary that you have a firebase project and that you have you
 }
 ```
 
-After obtaining the firebase key, just add it to the .env of the back-end repository and proceed with the steps below:
+Após obter a chave firebase, basta adicioná-la ao .env do repositório back-end e seguir os passos abaixo:
 
 ```bash
 #Front-end
@@ -104,7 +104,7 @@ $ npm install
 $ npm start
 ```
 
-## Contact
+## Contato
 
 - GitHub [@eduardosantanna](https://github.com/eduardosantanna)
 - Linkedin [@Luis Eduardo](https://www.linkedin.com/in/eduardosanntana)
